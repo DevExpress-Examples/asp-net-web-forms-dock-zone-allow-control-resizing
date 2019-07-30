@@ -5,7 +5,7 @@
 <!-- default file list end -->
 # ASPxDockZone - How to allow end-users to resize a control
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e5058)**
+**[[Run Online]](https://codecentral.devexpress.com/e5058/)**
 <!-- run online end -->
 
 

@@ -4,9 +4,6 @@
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
 # Dock Zone for ASP.NET Web Forms - How to allow users to resize a control
-<!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/128554401/)**
-<!-- run online end -->
 
 This example demonstrates how to change the control's height and width in the mouse move event handler to allow users to resize the control.
 
